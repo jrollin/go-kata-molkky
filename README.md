@@ -1,6 +1,6 @@
-## kata molkky
+# kata molkky
 
-### Règles
+## Règles
 
 le jeu comporte 12 quilles numérotées de 1 à 12
 
@@ -11,13 +11,25 @@ le jeu comporte 12 quilles numérotées de 1 à 12
 * si un joueur fait 3 lancers sans marquer de points, le joueur est éliminée
 
 
-### Méthodo
+## Méthodo
 
 * TDD : Red / Green / Refactor
 
-### Langage
+## Langage
 
 * Go
+
+### Dépendances
+
+assertions avec https://github.com/stretchr/testify
+
+### Installation
+
+```bash
+go mod tidy
+```
+
+### Lancer Tests
 
 ```bash
 go test -v ./...
