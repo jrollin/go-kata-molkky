@@ -10,6 +10,11 @@ le jeu comporte 12 quilles numérotées de 1 à 12
 * si le score dépasse 50, le score du joueur redescend à 25
 * si un joueur fait 3 lancers sans marquer de points, le joueur est éliminée
 
+#### Pour aller plus loin
+
+* Une partie peut être jouée par 1 ou n joueurs
+* Afficher le score en cours pour chaque joueur
+* Afficher le détail de chaque lancer et le score total en cours pour chaque joueur 
 
 ## Méthodo
 
