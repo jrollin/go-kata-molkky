@@ -1,5 +1,7 @@
 # kata molkky
 
+[![CircleCI](https://circleci.com/gh/jrollin/go-kata-molkky.svg?style=svg)](https://circleci.com/gh/jrollin/go-kata-molkky)
+
 ## Règles
 
 le jeu comporte 12 quilles numérotées de 1 à 12
